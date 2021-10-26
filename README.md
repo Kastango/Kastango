@@ -32,7 +32,7 @@
 
 | Name                 | A short summary                              | Badge   |
 | -------------------- | -------------------------------------------- | ------- |
-| [libft](https://github.com/Kastango/libft) | Re-creation of some C standard library functions  | <img src="./icons/libfte.png" width="100"> |
+| [libft](https://github.com/Kastango/libft) | Libft is an individual project at 42 that requires us to re-create some C standard library functions including some additional ones that can be used later to build a library of useful functions for the rest of the program.  | <img src="./icons/libfte.png" width="100"> |
 <!-- | Content Cell         | Content Cell                                | link | -->
   
 </details>
