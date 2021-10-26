@@ -32,7 +32,7 @@
 
 | Name                 | A short summary                              | Badge   |
 | -------------------- | -------------------------------------------- | ------- |
-| [libft](https://github.com/Kastango/libft) | Re-creation of some C standard library functions  | [![](./icons/libft.png)](https://github.com/Kastango/libft)]|
+| [libft](https://github.com/Kastango/libft) | Re-creation of some C standard library functions  | [![](./icons/libfte.png)](https://github.com/Kastango/libft)|
 <!-- | Content Cell         | Content Cell                                | link | -->
   
 </details>
