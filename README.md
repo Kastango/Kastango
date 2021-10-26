@@ -19,20 +19,20 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I have a tattoo written `git commit -m "first tattoo"` -->
 
-![Arthur's github stats](https://github-readme-stats.vercel.app/api?username=Kastango&show_icons=true&theme=radical)
+![Arthur's github stats](https://github-readme-stats.vercel.app/api?username=Kastango&show_icons=true&theme=github_dark&count_private=true)
 
 [![GitHub Followers](https://img.shields.io/github/followers/Kastango?style=for-the-badge&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/Kastango)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=for-the-badge&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/arthur-sosnowski/)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ArthurSosnowski)
 
 <details>
-  <summary>📦 42 Projects Already Graded</summary>
+  <summary>📦 Graded 42 Projects</summary>
   
   
 
 | Name                 | A short summary                              | Badge   |
 | -------------------- | -------------------------------------------- | ------- |
-| [libft](https://github.com/Kastango/libft) | Re-creation of some C standard library functions  | [![](./icons/libfte.png)](https://github.com/Kastango/libft)|
+| [libft](https://github.com/Kastango/libft) | Re-creation of some C standard library functions  | <img src="./icons/libfte.png" width="100"> |
 <!-- | Content Cell         | Content Cell                                | link | -->
   
 </details>
