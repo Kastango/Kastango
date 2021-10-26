@@ -3,7 +3,7 @@
 </h1>
 
 <p align='left'>
-  A UI/UX Designer and Frontend developer from Francisco Beltrão, Brazil.
+  A UI/UX Designer and Frontend developer from Paraná, Brazil.
 </p>
 
 - 🔭 I’m currently working as UI/UX Designer [@Tog.design](https://tog.design/)
