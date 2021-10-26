@@ -7,7 +7,7 @@
 </p>
 
 - 🔭 I’m currently working as UI/UX Designer [@Tog.design](https://tog.design/)
-- 🌱 I’m learning about Frontend Development
+- 🌱 I’m learning about Frontend Development and Solidity(🤔)
 - 👨‍🚀 Cadet at [42 São Paulo](https://www.42sp.org.br/)
 - 🎓 Software engineering student at [UTFPR](https://coens.dv.utfpr.edu.br/site/)
 - 👯 I’m looking to collaborate on Educational and Social impact open source projects
