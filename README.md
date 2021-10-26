@@ -1,5 +1,5 @@
 <h1 align='left'>
-  Hi there 👋 I'm Arthur Sosnowski 👨‍💻
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm Arthur Sosnowski 👨‍💻
 </h1>
 
 <p align='left'>
