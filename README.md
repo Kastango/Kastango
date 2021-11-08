@@ -32,7 +32,9 @@
 
 | Name                 | A short summary                              | Badge   |
 | -------------------- | -------------------------------------------- | ------- |
-| [libft](https://github.com/Kastango/libft) | Libft is an individual project at 42 that requires us to re-create some C standard library functions including some additional ones that can be used later to build a library of useful functions for the rest of the program.  | <img src="./icons/libfte.png" width="100"> |
+| [libft](https://github.com/Kastango/libft) | Libft is an individual project at 42 that requires us to re-create some C standard library functions including some additional ones that can be used later to build a library of useful functions for the rest of the course.  | <img src="./icons/libfte.png" width="100"> |
+| [get_next_line](https://github.com/Kastango/get_next_line) | Get Next Line is an individual project at 42 that requires us to create a function similar to fgets from C. With a filedescriptor from a file this function allows that file to be read line by line.| <img src="./icons/get_next_linen.png" width="100"> 
+  
 <!-- | Content Cell         | Content Cell                                | link | -->
   
 </details>
