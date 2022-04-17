@@ -6,7 +6,7 @@
   A UI/UX Designer and Frontend developer from Paraná, Brazil.
 </p>
 
-- 🔭 I’m currently working as UI/UX Designer [@Tog.design](https://tog.design/)
+- 🔭 I’m currently working as Designer [Oico](https://www.oico.com.br/)
 - 🌱 I’m learning about Frontend Development and Solidity(🤔)
 - 👨‍🚀 Cadet at [42 São Paulo](https://www.42sp.org.br/)
 - 🎓 Software engineering student at [UTFPR](https://coens.dv.utfpr.edu.br/site/)
