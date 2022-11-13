@@ -6,9 +6,8 @@
   A UI/UX Designer and Frontend developer from Paraná, Brazil.
 </p>
 
-- 🔭 I’m currently working as Designer [Oico](https://www.oico.com.br/)
-- 🌱 I’m learning about Frontend Development and Solidity(🤔)
-- 👨‍🚀 Cadet at [42 São Paulo](https://www.42sp.org.br/)
+- 🔭 I’m currently working as Developer Analyst [Oico](https://www.oico.com.br/)
+- 🌱 I’m learning about Frontend Development and Ruby on Rails(🤔)
 - 🎓 Software engineering student at [UTFPR](https://coens.dv.utfpr.edu.br/site/)
 - 👯 I’m looking to collaborate on Educational and Social impact open source projects
 - 💬 Ask me about `[Git, React, Next, C, Javascript]` 
@@ -24,17 +23,3 @@
 [![GitHub Followers](https://img.shields.io/github/followers/Kastango?style=for-the-badge&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/Kastango)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=for-the-badge&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/arthur-sosnowski/)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ArthurSosnowski)
-
-<details>
-  <summary>📦 Graded 42 Projects</summary>
-  
-  
-
-| Name                 | A short summary                              | Badge   |
-| -------------------- | -------------------------------------------- | ------- |
-| [libft](https://github.com/Kastango/libft) | Libft is an individual project at 42 that requires us to re-create some C standard library functions including some additional ones that can be used later to build a library of useful functions for the rest of the course.  | <img src="./icons/libfte.png" width="100"> |
-| [get_next_line](https://github.com/Kastango/get_next_line) | Get Next Line is an individual project at 42 that requires us to create a function similar to fgets from C. With a filedescriptor from a file this function allows that file to be read line by line.| <img src="./icons/get_next_linen.png" width="100"> 
-  
-<!-- | Content Cell         | Content Cell                                | link | -->
-  
-</details>
