@@ -6,11 +6,11 @@
   A UI/UX Designer and Frontend developer from Paraná, Brazil.
 </p>
 
-- 🔭 I’m currently working as Software Engineer at [Vobi](https://vobi.com.br/)
+- 🔭 I’m currently working as Software Engineer at [Selfless.chat](https://selfless.chat/)
 - 🌱 I’m learning about Frontend Development and Synthetic Data Generation for DeepLearning object detection tasks(🤔)
 - 🎓 Graduated in software engineering at [UTFPR](https://coens.dv.utfpr.edu.br/site/)
 - 👯 I’m looking to collaborate on Educational and Social impact open source projects
-- 💬 Ask me about `[Git, React, Next, C, Javascript]` 
+- 💬 Ask me about `[React, Next, C, Javascript and UX/UI stuff]` 
 - 😄 Pronouns: Him/His
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=for-the-badge&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/arthur-sosnowski/)
